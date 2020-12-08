@@ -12,7 +12,7 @@
 1、Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加两个秘密环境变量`USERNAME`和`PASSWORD`。支持同时添加多个帐户，数据之间用半角逗号 `,` 隔开即可（你的单个账号密码中，不应该出现`,`字符，如存在，建议修改密码），帐户名和帐户密码需一一对应。
 
 ```
-USERNAME: 你的EUserv账户邮箱或Customer ID,第二个账户
+USERNAME: 你的EUserv账户邮箱或Customer ID,第二个账户.。
 PASSWORD: 第一个账户密码,第二个账户密码
 ```
 
